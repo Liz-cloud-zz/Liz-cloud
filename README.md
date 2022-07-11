@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Linda
 - 👀 I’m interested in Sofware Engineering
-- 🌱 I’m currently a 3rd year Computer Science Student majoring in Computer Engineering at UCT
-- 💞️ I’m looking to collaborate on project on the backend
+- 🌱 Computer Science graduate majoring in Computer Engineering from University of Cape Town South Africa
+- 💞️ I’m looking to collaborate on project on the backend (java, python,c#)
 - 📫 How to reach me : mafunulinda@outlook.com
 
 <!---
